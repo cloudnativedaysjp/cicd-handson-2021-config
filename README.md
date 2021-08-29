@@ -23,6 +23,7 @@ CI/CD Co-located ハンズオンイベントのConfigリポジトリです。
 * Chapter7: [Secure container image](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter7.md)
 * Chapter8: [CD pipeline by ArgoCD](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter8.md)
 * Chapter9: [CI/CD pipeline](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter9.md)
+* Chapter10: [Clean up](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter10.md)
 
 
 # 免責事項
