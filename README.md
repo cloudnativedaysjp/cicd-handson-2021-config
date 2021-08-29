@@ -1,14 +1,14 @@
 # CI/CD Co-located Hands-on Event 2021
 
-Here is **Config** repository.
+CI/CD Co-located ハンズオンイベントのConfigリポジトリです。
 
 # Repository
 
-* Document Repository
+* ドキュメント
 	* https://github.com/cloudnativedaysjp/cicd-handson-2021
-* Code Repository
+* Codeリポジトリ
 	* https://github.com/cloudnativedaysjp/cicd-handson-2021-code
-* Config Repository
+* Configリポジトリ
 	* https://github.com/cloudnativedaysjp/cicd-handson-2021-config
 
 # Chapter
@@ -24,3 +24,8 @@ Here is **Config** repository.
 * Chapter8: [CD pipeline by ArgoCD](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter8.md)
 * Chapter9: [CI/CD pipeline](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter9.md)
 
+
+# 免責事項
+
+本ドキュメントに掲載された内容によって生じた損害等の一切の責任を負いかねます。  
+また、本ドキュメントのコンテンツや情報において、可能な限り正確な情報を掲載するよう努めていますが、情報が古くなったりすることもあります。必ずしも正確性を保証するものではありません。あらかじめご了承ください。
