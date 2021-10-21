@@ -24,6 +24,9 @@ CI/CD Co-located ハンズオンイベントのConfigリポジトリです。
 * Chapter8: [CD pipeline by ArgoCD](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter8.md)
 * Chapter9: [CI/CD pipeline](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter9.md)
 * Chapter10: [Clean up](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main//docs/chapter10.md)
+* Advance-1: [Policy Check of manifests](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main/docs/chapter-advance-1.md)
+* Advance-2: [Conftest & Open Policy Agent (OPA)](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main/docs/chapter-advance-2.md)
+* Advance-3: [CD pipeline by Flux](https://github.com/cloudnativedaysjp/cicd-handson-2021/blob/main/docs/chapter-advance-3.md)
 
 
 # 免責事項
