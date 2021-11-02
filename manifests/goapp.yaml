@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: goapp-deployment
+spec:
+  selector:
+    matchLabels:
+      app: goapp
+  template:
+    metadata:
+      labels:
+        app: goapp
+    spec:
+      containers:
+      - name: goapp
+        image: docker.pkg.github.com/kos31de/cicd-handson-2021-code/go-image:base
+        ports:
+        - containerPort: 9090
+      imagePullSecrets:
+      - name: dockerconfigjson-github-com
