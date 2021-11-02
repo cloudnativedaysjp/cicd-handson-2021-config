@@ -18,4 +18,3 @@ spec:
         - containerPort: 9090
       imagePullSecrets:
       - name: dockerconfigjson-github-com
-
